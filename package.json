@@ -1,0 +1,23 @@
+{
+  "name": "jwqblog-static",
+  "version": "1.0.1",
+  "description": "blog static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dahaoi/jaingwuqiong-static.git"
+  },
+  "keywords": [
+    "static",
+    "file"
+  ],
+  "author": "jiangwuqiong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dahaoi/jaingwuqiong-static/issues"
+  },
+  "homepage": "https://github.com/dahaoi/jaingwuqiong-static#readme"
+}
